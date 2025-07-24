@@ -76,16 +76,3 @@ Decrypted File: report_decrypted.pdf
 This tool is for educational and personal security use only. Do not use it on sensitive or legally protected files without permission.
 
 ---
-
-### 👤 Author
-**COMPANY:** CODTECH IT SOLUTIONS
-
-**NAME:** Raguram M
-
-**INTERN ID:** CT04DF1209
-
-**DOMAIN:** CYBER SECURITY AND ETHICAL HACKING
-
-**DURATION:** 4 WEEKS
-
-**MENTOR:** NEELA SANTHOSH KUMAR
